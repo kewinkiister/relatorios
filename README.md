@@ -5,5 +5,6 @@ Repositório de construção dos relatórios técnicos do Projeto Integrador do 
 ## Integrantes
 
 |Nome|Engenharia|
+|Kewin|Eletrônica|
 |---|---|
 |-|-|
